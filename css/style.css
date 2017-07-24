@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Freckle+Face');
+body {
+  /*padding-top: 150px;*/
+}
+.tpanda {
+    font-family: 'Freckle Face', cursive;
+}
+.tpanda-navbar {
+    background: white;
+    height: 150px;
+}
+.tpanda-body {
+  padding: 40px 15px;
+  text-align: center;
+  display: flex;
+}
+.release-text {
+    vertical-align: bottom;
+}
+.logo-text {
+    font-size: 35px;
+}
